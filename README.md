@@ -1,6 +1,6 @@
 # flat-ui-colors
 
-Sass variables for flat-ui colors.
+Sass variables for flat-ui colors (see http://designmodo.github.io/Flat-UI/).
 
 ## Installation:
 
